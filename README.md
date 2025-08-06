@@ -46,5 +46,4 @@ const end = [7, 7];
 
    . Coordinate mapping
 
-    Reconstructing path using parent map
-    
+   . Reconstructing path using parent map
